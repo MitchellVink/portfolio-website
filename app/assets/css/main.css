@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-xs: 30rem;
+  --breakpoint-2xl: 100rem;
+  --breakpoint-3xl: 120rem;
+}
+
+@layer base {
+  header {
+    @apply pb-10 lg:pb-20 xl:pb-24;
+  }
+
+  body {
+    @apply pt-[90px] lg:pt-[100px];
+  }
+}
+
+/* Je nieuwe wrapper class */
+@layer components {
+  .section-container-x {
+    @apply max-w-7xl mx-auto px-4 lg:px-8 mx-auto;
+  }
+  .section-container-y {
+    @apply pb-16 lg:pb-24;
+  }
+  .inner-padding {
+    @apply py-12 lg:py-24 ;
+  }
+}
+
+.section-colored + .section-colored,
+.section-colored + #bottom {
+  @apply -mt-16 lg:-mt-24 xl:-mt-24;
+}
+
+header + *:not(.section-colored):not(.home-page):not(.about-page):not(.services-detail-page) {
+  @apply mt-16 lg:mt-24 xl:mt-24;
+}

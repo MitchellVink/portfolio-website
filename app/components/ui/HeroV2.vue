@@ -33,7 +33,7 @@
           </div>
         
         <div class="absolute bottom-12 left-1/2 -translate-x-1/2 z-20 pointer-events-none">
-          <div class="relative w-[1.5px] h-24 bg-white/10 overflow-hidden rounded-full">
+          <div class="relative w-[2px] h-24 bg-white/10 overflow-hidden rounded-full">
             <div class="scroll-line absolute top-0 left-0 w-full h-1/3 bg-orange-500 rounded-full"></div>
          </div>
         </div>

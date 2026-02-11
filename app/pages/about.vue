@@ -33,7 +33,7 @@
 
               <div class="hidden sm:block mr-auto w-36 flex-none space-y-8 sm:mr-0 sm:pt-52 lg:pt-36">
                 <div class="relative">
-                  <img src="https://www.dev.kniv-studios.nl/wp-content/uploads/2025/03/Mitchell-16x9-1.jpg" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image6.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
                 <div class="relative">
@@ -86,8 +86,8 @@
 
 <script setup>
 const stats = [
-  { label: 'gevlogen', value: '400km' },
-  { label: 'hardgelopen', value: '250km' },
+  { label: 'ervaring', value: '3 jaar' },
+  { label: 'afgeronde projecten', value: '20+' },
   { label: 'gefietst', value: '10.000km' },
 ]
 </script>

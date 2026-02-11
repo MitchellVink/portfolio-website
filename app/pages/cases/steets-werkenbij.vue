@@ -3,41 +3,49 @@
 
     <UiIntro
       title="Steets Werkenbij"
-      content="Ontdek hoe we uitdagingen hebben aangepakt, innovatieve oplossingen hebben ontwikkeld en meetbare resultaten hebben behaald voor onze klant in deze uitgebreide case study."
+      content="Steets ontwikkelt voor klanten veel werkenbij-sites, maar merkte intern dat vacatures vaak onderdeel waren van de corporate website. Hierdoor lag de tone of voice vooral op klanten, terwijl potentiële werknemers een andere benadering nodig hebben."
       :tags="['Stage opdracht']"
     />
 
     <TextMedia
         title="Waarom een werkenbij site?"
-        content="Producten ontwerpen die het leven makkelijker, mooier en beter maken.Of het nu fysiek of digitaal is, een goed doordacht ontwerp is een van mijn grote drijfveren."
+        content="De keuze voor een aparte werkenbij-site maakte het mogelijk om de tone of voice volledig te richten op nieuwe medewerkers. Hierdoor kon Steets gerichte employer branding toepassen en ruimte creëren voor specifieke contentmiddelen, zoals medewerkersverhalen en teamcontent. Daarnaast worden vacatures beter vindbaar en aantrekkelijker gepresenteerd, wat bijdraagt aan een sterkere user experience. Met een eigen werkenbij-site heeft Steets meer controle over het werkgeversverhaal en sluit de communicatie beter aan bij de doelgroep."
         image="/assets/cases/steets-werkenbij/SteetsHome.png"
         position="left"
         backgroundColor="#F3F4F6"
         class="mb-16 lg:mb-24"
     />
-    <TextMedia
-        title="User flows"
-        content="Producten ontwerpen die het leven makkelijker, mooier en beter maken.Of het nu fysiek of digitaal is, een goed doordacht ontwerp is een van mijn grote drijfveren."
-        image="/assets/cases/steets-werkenbij/SteetsMockup_Userflows.png"
-        position="right"
+    <TextBlock
+      title="Aanpak"
+      content="Om tot een effectief en gebruiksvriendelijk ontwerp te komen is gewerkt volgens een gestructureerd ontwerpproces. Hierbij stonden de doelgroep, hun behoeften en het sollicitatieproces centraal. Het proces bestond uit doelgroeponderzoek, het uitwerken van user flows, het opstellen van een functioneel ontwerp, het maken van een grafisch ontwerp en het testen van de oplossing bij de doelgroep."
+      position="center"
+      textColor="#000"
+      backgroundColor="#fff"
     />
     <TextBlock
-      title="Resultaten"
-      content="Voor wielervereniging AXA Valleienners heb ik meerdere evenementen mogen vastleggen. Dit resulteerde in aftermovies die niet alleen de sfeer en hoogtepunten van de gefilmde editie weergeven, maar ook dienen als promotie om toekomstige edities te presenteren en nieuwe deelnemers te enthousiasmeren."
+      title="Doelgroep & Onderzoek"
+      content="Als eerste stap is onderzoek gedaan naar de doelgroep van Steets. Hierbij is gekeken naar wie de potentiële kandidaten zijn, hoe zij zich oriënteren op een nieuwe baan en welke informatie zij nodig hebben om tot een sollicitatie over te gaan. Deze inzichten vormden de basis voor de structuur, content en tone of voice van de werkenbij-site."
       position="center"
       textColor="#000"
       backgroundColor="#fff"
     />
     <TextMedia
-        title="Wie gaan we benaderen?"
-        content="Producten ontwerpen die het leven makkelijker, mooier en beter maken.Of het nu fysiek of digitaal is, een goed doordacht ontwerp is een van mijn grote drijfveren."
+        title="User flows"
+        content="Om tot een zo goed mogelijk ontwerp te komen is het Jesse James model gebruikt als basis voor de structuur en ontwerpkeuzes van de werkenbij-site. Vanuit deze aanpak zijn duidelijke user flows uitgewerkt, afgestemd op verschillende typen kandidaten en hun positie binnen het sollicitatieproces. Bij het uitwerken van deze flows lag de focus op het minimaliseren van het aantal stappen en het inzetten van heldere call-to-actions op iedere pagina."
+        image="/assets/cases/steets-werkenbij/SteetsMockup_Userflows.png"
+        position="right"
+    />
+
+    <TextMedia
+        title="Functioneel ontwerp"
+        content="Op basis van het onderzoek en de user flows is een functioneel ontwerp opgesteld. Hierin zijn de paginastructuur, functionaliteiten en interacties uitgewerkt. Het functioneel ontwerp vormde de basis voor zowel het grafisch ontwerp als de uiteindelijke realisatie en zorgde ervoor dat de site logisch, overzichtelijk en gebruiksvriendelijk werd opgebouwd."
         image="/assets/cases/steets-werkenbij/Steets-Brainstorm2.jpg"
         position="left"
         backgroundColor="#F3F4F6"
     />
     <TextMedia
-        title="Content middelen"
-        content="Producten ontwerpen die het leven makkelijker, mooier en beter maken.Of het nu fysiek of digitaal is, een goed doordacht ontwerp is een van mijn grote drijfveren."
+        title="Grafisch ontwerp"
+        content="In het grafisch ontwerp is de bestaande branding van Steets doorvertaald naar een werkgeversgerichte uitstraling. Hierbij is extra aandacht besteed aan beeldgebruik, typografie en kleur, passend bij de cultuur en identiteit van Steets. Het ontwerp is gericht op het creëren van vertrouwen, herkenning en enthousiasme bij potentiële medewerkers."
         image="/assets/cases/steets-werkenbij/Steets-comp.jpg"
         position="left"
         backgroundColor="#F3F4F6"
@@ -51,7 +59,7 @@
     />
     <TextBlock
     title="Resultaten"
-    content="Voor wielervereniging AXA Valleienners heb ik meerdere evenementen mogen vastleggen. Dit resulteerde in aftermovies die niet alleen de sfeer en hoogtepunten van de gefilmde editie weergeven, maar ook dienen als promotie om toekomstige edities te presenteren en nieuwe deelnemers te enthousiasmeren."
+    content="Het resultaat is een overzichtelijke en gebruiksvriendelijke werkenbij-site die volledig is afgestemd op nieuwe medewerkers. De site vertelt een duidelijk werkgeversverhaal, maakt vacatures beter vindbaar en verlaagt de drempel om te solliciteren. Hierdoor sluit de candidate experience beter aan bij de doelgroep en heeft Steets een stevig fundament voor employer branding."
     position="center"
     textColor="#000"
     backgroundColor="#fff"

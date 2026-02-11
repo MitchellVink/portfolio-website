@@ -2,7 +2,7 @@
   <div class="mx-auto grid max-w-7xl px-6 lg:px-8 pb-10 lg:pb-20 xl:pb-24 grid-cols-1 lg:grid-cols-2">
     <div class="">
       <div class="mx-auto max-w-xl mb-8 lg:mb-0 lg:mx-0 lg:max-w-lg">
-        <img src="/assets/content-creatie.png" alt="Contact" class="rounded-2xl object-cover shadow-lg mb-8" />
+        <img src="/assets/image7.JPG" alt="Contact" class="rounded-2xl object-cover shadow-lg mb-8" />
         <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-[60px]">Samenwerken of even kennismaken?</h2>
         <p class="mt-6 text-lg/8 text-gray-600">Heb je een vraag, idee, compliment of gewoon zin in een praatje? Ik denk graag met je mee, groot of klein, ik hoor graag van je.</p>
         <dl class="mt-10 space-y-4 text-base/7 text-gray-600">

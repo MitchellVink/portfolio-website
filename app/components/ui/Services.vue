@@ -53,7 +53,7 @@
 
           <div class="absolute bottom-0 left-0 right-0 text-white p-8 z-40 pointer-events-none translate-y-2 transition-transform duration-500 group-hover:translate-y-0">
             <h3 class="text-2xl font-bold tracking-tight">{{ card.title }}</h3>
-            <p class="text-sm font-medium text-orange-500 mt-2 opacity-0 transition-opacity duration-500 group-hover:opacity-100">
+            <p class="text-sm font-medium text-white mt-2 opacity-0 transition-opacity duration-500 group-hover:opacity-100">
               Bekijk dienst →
             </p>
           </div>

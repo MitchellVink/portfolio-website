@@ -71,10 +71,11 @@ import { ref, computed } from "vue";
 import LogoCloud from "~/components/ui/LogoCloud.vue";
 
 const cases = [
+  { title: "Bruiloft video", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.JPG", size: 2, slug: "Bruiloft-NE" },
   { title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/SteetsHome.png", size: 1, slug: "steets-werkenbij" },
-  { title: "AXA", type: ["Content Creatie"], image: "https://www.dev.kniv-studios.nl/wp-content/uploads/2024/11/Axa.png", size: 2, slug: "axa" },
-  { title: "Kunstroute Veenendaal", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg", size: 2, slug: "kunstroute-veenendaal" },
   { title: "DIT BIER", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },
+  { title: "AXA", type: ["Content Creatie"], image: "/assets/cases/axa-valleirenners/axa-vlag.PNG", size: 2, slug: "axa" },
+  { title: "Kunstroute Veenendaal", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg", size: 2, slug: "kunstroute-veenendaal" },
   { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/Vandervalk-overview3.png", size: 1, slug: "van-der-valk" },
 ];
 

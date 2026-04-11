@@ -26,7 +26,7 @@
       <TextMedia
           title="Contact"
           content="Heb je een vraag, idee, compliment of behoefte aan even sparren? Ik denk graag met je mee, groot of klein."
-          image="/assets/services/ux-ui-design.jpg"
+          image="/assets/services/ux-ui-design.webp"
           position="left"
           url="/about"
           buttonText="Contact"

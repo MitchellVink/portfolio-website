@@ -71,12 +71,13 @@ import { ref, computed } from "vue";
 import LogoCloud from "~/components/ui/LogoCloud.vue";
 
 const cases = [
-  { title: "Bruiloft video", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.JPG", size: 2, slug: "Bruiloft-NE" },
+  { title: "VAN SLAAPKAMER TOT MAINSTAGE", type: ["Content Creatie"], image: "/assets/cases/rich/rich1.webp", size: 2, slug: "rich" },
+  { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/Vandervalk-overview3.webp", size: 1, slug: "van-der-valk" },
   { title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/SteetsHome.png", size: 1, slug: "steets-werkenbij" },
-  { title: "DIT BIER", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },
-  { title: "AXA", type: ["Content Creatie"], image: "/assets/cases/axa-valleirenners/axa-vlag.PNG", size: 2, slug: "axa" },
-  { title: "Kunstroute Veenendaal", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg", size: 2, slug: "kunstroute-veenendaal" },
-  { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/Vandervalk-overview3.png", size: 1, slug: "van-der-valk" },
+  { title: "LIEFDE IN BEELD: EEN ONVERGETELIJKE DAG VASTGELEGD", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.webp", size: 2, slug: "Bruiloft-NE" },
+  { title: "AXA VALLEIRENNERS - EVENEMENTEN IN BEELD", type: ["Content Creatie"], image: "/assets/cases/axa-valleirenners/axa-vlag.webp", size: 2, slug: "axa" },
+  { title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg", size: 2, slug: "kunstroute-veenendaal" },
+  { title: "DIT BIER - EEN INNOVATIEVE BIERBELEVING", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },
 ];
 
 const caseTypes = ["Product Design", "Content Creatie", "UI/UX Design"];

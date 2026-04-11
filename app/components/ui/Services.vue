@@ -69,7 +69,7 @@ import { ref } from 'vue'
 const cards = [
   {
     title: "PRODUCT DESIGN",
-    poster: "/assets/services/product-design.jpg",
+    poster: "/assets/services/product-design.webp",
     video: "/assets/videos/ProductDesign.mp4",
     url: '/services/design',
   },
@@ -81,7 +81,7 @@ const cards = [
   },
   {
     title: "UI/UX DESIGN",
-    poster: "/assets/services/ux-ui-design.jpg",
+    poster: "/assets/services/ux-ui-design.webp",
     video: "/assets/videos/DroppingBallsUxUi.mp4",
     url: '/services/uxuidesign',
   },

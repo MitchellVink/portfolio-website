@@ -12,7 +12,7 @@
       <TextMedia
           title="Product Design"
           content="Producten ontwerpen die het leven makkelijker, mooier en beter maken. Of het nu fysiek of digitaal is, een goed doordacht ontwerp is mijn uitgangspunt."
-          image="/assets/services/product-design.jpg"
+          image="/assets/services/product-design.webp"
           position="left"
           url="/services/design"
           buttonText="Lees meer"
@@ -30,7 +30,7 @@
       <TextMedia
           title="UI/UX Design"
           content="Gebruiksvriendelijke ontwerpen die niet alleen visueel aantrekkelijk zijn, maar ook functioneren. Met de eindgebruiker altijd in gedachten."
-          image="/assets/services/ux-ui-design.jpg"
+          image="/assets/services/ux-ui-design.webp"
           position="left"
           url="/services/uxuidesign"
           buttonText="Lees meer"

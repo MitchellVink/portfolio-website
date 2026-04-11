@@ -38,7 +38,7 @@
           <span 
             v-for="label in labels" 
             :key="label"
-            class="bg-white/10 backdrop-blur-md text-white border border-white/20 text-xs lg:text-sm font-medium px-4 py-2 rounded-full shadow-lg uppercase tracking-wider"
+            class="bg-black/100 backdrop-blur-md text-white text-xs lg:text-sm font-medium px-4 py-2 rounded-full shadow-lg uppercase tracking-wider"
           >
             {{ label }}
           </span>

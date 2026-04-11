@@ -26,29 +26,29 @@
             <div class="mt-14 flex justify-center gap-8 px-4 sm:px-6 sm:-mt-44 sm:justify-start sm:pl-20 lg:mt-0 lg:pl-0 lg:px-0">
               <div class="hidden sm:block ml-auto w-36 flex-none space-y-8 pt-32 sm:ml-0 sm:pt-80 lg:order-last lg:pt-36 xl:order-0 xl:pt-80">
                 <div class="relative">
-                  <img src="/assets/image5.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image5.webp" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
               </div>
 
               <div class="hidden sm:block mr-auto w-36 flex-none space-y-8 sm:mr-0 sm:pt-52 lg:pt-36">
                 <div class="relative">
-                  <img src="/assets/image6.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image6.webp" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
                 <div class="relative">
-                  <img src="/assets/image3.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image3.webp" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
               </div>
 
               <div class="w-36 flex-none space-y-8 sm:pt-0 pb-10 lg:pb-0">
                 <div class="relative">
-                  <img src="/assets/image2.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image2.webp" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
                 <div class="relative">
-                  <img src="/assets/image4.JPG" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
+                  <img src="/assets/image4.webp" alt="" class="aspect-2/3 w-full rounded-xl bg-gray-900/5 object-cover shadow-lg" />
                   <div class="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-gray-900/10 ring-inset" />
                 </div>
               </div>

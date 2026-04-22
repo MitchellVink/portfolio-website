@@ -80,7 +80,7 @@ const menuOpen = ref(false)
 const items = [
   { label: 'Home', href: '/' },
   { label: 'About', href: '/about' },
-  { label: 'Cases', href: '/cases' },
+  { label: 'Creations', href: '/cases' },
   { label: 'Services', href: '/services' },
   { label: 'Contact', href: '/contact' },
 ]

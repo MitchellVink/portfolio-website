@@ -25,8 +25,10 @@
     />
 
     <TextMedia
-        title="Lorem ipsum"
-        content="Lorem ipsum dolor sit amet constructeur."
+        title="Focus"
+        content="Mijn focus ligt op storytelling: ik maak videoproducties en content voor mensen en merken die echt iets te vertellen hebben. Daarbij leg ik niet alleen vast wat er gebeurt, maar zoek ik altijd naar de kern van het verhaal. Waarom doe je wat je doet? Welke emotie schuilt er achter die ene dag of dat specifieke project?
+
+        Voor mij gaat impact altijd boven kwantiteit. Ik maak liever één video die echt raakt en die je steeds opnieuw wilt bekijken, dan tien snelle clips die morgen alweer vergeten zijn."
         image="/assets/services/content-foto.jpg"
         position="left"
     />

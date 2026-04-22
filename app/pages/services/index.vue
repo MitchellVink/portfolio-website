@@ -3,29 +3,29 @@
     <UiIntro
         title="Vaardigheden om indruk 
         te maken"
-        content="Bij KNIV Studios vertaal ik ideeën naar (digitale) belevingen die inspireren, verbinden en overtuigen. Mijn vaardigheden combineren strategie, design en technologie om merken zichtbaar te maken. Van concept en productdesign tot videoproductie en webdesign, alles wat ik doe is gericht op indruk maken."
+        content="Alles wat ik doe, begint met één gedachte: ik wil iets maken dat blijft hangen. Of ik nu met een camera in mijn handen sta om een oprecht verhaal vast te leggen, een digitaal interface ontwerp, of mijn 3D-printers aanzet om een digitale herinnering tastbaar te maken, het draait altijd om de impact."
     />
 
     <LogoCloud />
 
     <div>
       <TextMedia
-          title="Product Design"
+          title="Video productis en Content Creatie"
+          content="Indruk maken met beeld en verhalen tot leven brengen. Ik combineer creativiteit met strategie om content te maken die mensen echt raakt"
+          image="/assets/services/content-creatie.jpeg"
+          position="left"
+          url="/services/content"
+          buttonText="Lees meer"
+      />
+      <TextMedia
+          title="Creative Engineering"
           content="Producten ontwerpen die het leven makkelijker, mooier en beter maken. Of het nu fysiek of digitaal is, een goed doordacht ontwerp is mijn uitgangspunt."
           image="/assets/services/product-design.webp"
-          position="left"
+          position="right"
           url="/services/design"
           buttonText="Lees meer"
       />
 
-      <TextMedia
-          title="Content Creatie"
-          content="Indruk maken met beeld en verhalen tot leven brengen. Ik combineer creativiteit met strategie om content te maken die mensen echt raakt"
-          image="/assets/services/content-creatie.jpeg"
-          position="right"
-          url="/services/content"
-          buttonText="Lees meer"
-      />
 
       <TextMedia
           title="UI/UX Design"

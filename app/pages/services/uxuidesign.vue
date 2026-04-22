@@ -3,7 +3,7 @@
     <PageBanner
       video="/assets/videos/DroppingBallsUxUi.mp4"
       title="UX-UI Design"
-      subtitle="Verhalen tot leven brengen. Jouw boodschap helder overbrengen. Jouw merk visueel onvergetelijk maken."
+      subtitle="Gebruiksvriendelijke ontwerpen die niet alleen visueel aantrekkelijk zijn, maar ook functioneren. Met de eindgebruiker altijd in gedachten."
     />
 
     <UiIntro
@@ -15,11 +15,10 @@
 
     <TextBlock
       title="UX/UI Design"
-      content="Sinds het oprichten van mijn eigen onderneming, kreeg ik al snel in de gaten dat ik bijna alle benodigdheden zelf moest vervullen.  Een van de cruciale aspecten in dit tijdperk is het opbouwen van een sterke online aanwezigheid. Direct na de oprichting van mijn bedrijf heb ik actief mijn tijd besteed aan het ontwikkelen van vaardigheden op het gebied van webontwikkeling om deze behoefte te vervullen.
+      content="UX/UI design beperkt zich niet alleen tot websites of apps; het speelt ook een belangrijke rol in fysieke producten. Het gaat erom hoe een gebruiker een product ervaart, zowel digitaal als fysiek, en hoe de interactie daarmee zo intuïtief en prettig mogelijk kan worden gemaakt.
 
-      Gedurende mijn studie kwam ik in aanraking met UX-designopdrachten en leerde ik over invloedrijke principe van Robert Cialdini. Ik heb met succes een app en webpagina’s mogen ontwerpen met aandacht voor functionaliteit en een naadloze gebruikerservaring, waarbij ik de principes van UX-design implementeerde.
-
-      Wat drijft iemand om een bepaalde keuze te maken? Hoe maak je technologie toegankelijk voor iedereen? Dit en nog meer vragen interessen mij enorm."
+Door UX/UI design te integreren in productontwikkeling zorg ik ervoor dat producten niet alleen functioneel zijn, maar ook fijn aanvoelen in gebruik of het nu een digitaal platform is of een fysiek object. Het resultaat: ontwerpen die echt werken voor mensen.
+"
 
       position="center"
       textColor="#000"

@@ -34,8 +34,8 @@
 
     <TextMedia
         title="Veenendaal-Veenendaal"
-        content="Van start tot finish: Veenendaal-Veenendaal was een spektakel! Bekijk de hoogtepunten van dit wielerevenement en herbeleef de energie van het peloton."
-        image="/assets/cases/axa-valleirenners/Thumbnail-vv.jpg"
+        content="Vaan start tot finish: Veenendaal-Veenendaal was een spektakel! Bekijk de hoogtepunten van dit wielerevenement en herbeleef de energie van het peloton."
+        image="/assets/cases/axa-valleirenners/Thumbnail-VV.jpg"
         videoUrl="Fz3vek2dhoo"
         position="left"
         backgroundColor="#000"

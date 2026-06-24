@@ -76,7 +76,7 @@ const cases = [
   { title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/SteetsHome.png", size: 1, slug: "steets-werkenbij" },
   { title: "LIEFDE IN BEELD: EEN ONVERGETELIJKE DAG VASTGELEGD", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.webp", size: 2, slug: "Bruiloft-NE" },
   { title: "AXA VALLEIRENNERS - EVENEMENTEN IN BEELD", type: ["Content Creatie"], image: "/assets/cases/axa-valleirenners/axa-vlag.webp", size: 2, slug: "axa" },
-  { title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg", size: 2, slug: "kunstroute-veenendaal" },
+  { title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg", size: 2, slug: "kunstroute-veenendaal" },
   { title: "DIT BIER - EEN INNOVATIEVE BIERBELEVING", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },
 ];
 

@@ -11,7 +11,7 @@
         title="Van idee tot totaalervaring  "
         content="Toen de organisatie van de Kunstroute Veenendaal mij benaderde voor het maken van een aftermovie, werd al snel duidelijk dat de vraag verder ging dan alleen video. Er was behoefte aan een originele opening van de kunstroute én aan een manier om een jonger publiek actief bij het evenement te betrekken.
         Naast het vastleggen van de sfeer heb ik daarom meegedacht over de volledige beleving rondom de opening van de kunstroute."
-        image="/assets/cases/kunstroute-veenendaal/Kunstroute-lijst.jpg"
+        image="/assets/cases/kunstroute-veenendaal/Kunstroutelijst.jpg"
         position="left"
     />
     <TextBlock
@@ -24,7 +24,7 @@
     <TextMedia
         title="De opening van de kunstroute"
         content="Voor de officiële opening ontwierp ik een uniek kunstzinnig object: een speciaal ontworpen lijst met een 3D-geprinte plattegrond van Veenendaal. Met rode markeringen werden de locaties van 15 verschillende kunstateliers zichtbaar gemaakt, zodat bezoekers in één oogopslag konden zien waar de kunstroute zich afspeelde."
-        image="/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg"
+        image="/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg"
         position="right"
         backgroundColor="#000"
         textColor="#fff"
@@ -42,7 +42,7 @@
     <TextMedia
         title="Aftermovie"
         content="De aftermovie brengt de sfeer, kunst en opening tijdens de Kunstroute Veenendaal 2023 samen. Van exposities tot bezoekers en van detail tot totaalbeeld, de video fungeert als herinnering én als promotiemiddel voor toekomstige edities."
-        image="/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg"
+        image="/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg"
         videoUrl="njd1rtm2ic4"
         position="right"
     />

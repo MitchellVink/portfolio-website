@@ -10,7 +10,7 @@
 
     <div>
       <TextMedia
-          title="Video productis en Content Creatie"
+          title="Video producties en Content Creatie"
           content="Indruk maken met beeld en verhalen tot leven brengen. Ik combineer creativiteit met strategie om content te maken die mensen echt raakt"
           image="/assets/services/content-creatie.jpeg"
           position="left"

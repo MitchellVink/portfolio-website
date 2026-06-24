@@ -14,11 +14,21 @@
       textColor="#000"
       backgroundColor="#fff"
     />
+
     <MediaDisplay
       type="video"
-      src="WkR4zVxlTfQ"        
+      src="6HwZBVx20Tg"        
       alt="Thumbnail photo"
       wrapper-class="px-6 lg:px-8 pb-10 lg:pb-20 xl:pb-24"
+    />
+
+    <TextBlock
+      title=""
+      content="Op verzoek van het bruidspaar delen we niet de volledige video openbaar. Wil je de complete film bekijken als inspiratie voor jullie eigen bruiloft? Stuur gerust een berichtje."
+      position="center"
+      textColor="#555"
+      backgroundColor="#fff"
+      class="-mt-10 pb-10 lg:pb-20 xl:pb-24"
     />
         
     <TextBlock

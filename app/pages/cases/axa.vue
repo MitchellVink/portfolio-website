@@ -28,7 +28,6 @@
         title="Veldrit Rhenen 2026"
         content="Modder, actie en adrenaline! Tijdens de veldrit in Rhenen, georganiseerd door de AXA Valleirenners, heb ik een aftermovie gemaakt die de unieke sfeer van het evenement weergeeft. Met deze video hebben toekomstige edities nu een krachtig middel in handen om nog meer deelnemers en sponsoren aan te trekken."
         videoUrl="LgJiTkIpcCw"
-        image="/assets/cases/axa-valleirenners/Thumbnail-veldrit.png"
         position="right"
         backgroundColor="#000"
         textColor="#fff"

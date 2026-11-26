@@ -77,7 +77,7 @@ const cases = [
  // { title: "deOlijfolieshop", type: ["Content Creatie"], image: "/assets/cases/deolijfolieshop/DSC03015.jpg", size: 2, slug: "deolijfolieshop" },
   { title: "VAN SLAAPKAMER TOT MAINSTAGE", type: ["Content Creatie"], image: "/assets/cases/rich/rich1.webp", size: 2, slug: "rich" },
   { title: "LIEFDE IN BEELD: EEN ONVERGETELIJKE DAG VASTGELEGD", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.webp", size: 2, slug: "Bruiloft-NE" },
-  { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/Vandervalk-overview3.webp", size: 1, slug: "van-der-valk" },
+  { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/vandervalk-overview3.webp", size: 1, slug: "van-der-valk" },
 { title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/SteetsHome.png", size: 1, slug: "steets-werkenbij" },
 { title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg", size: 2, slug: "kunstroute-veenendaal" },
 { title: "DIT BIER - EEN INNOVATIEVE BIERBELEVING", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },

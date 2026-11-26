@@ -1,7 +1,7 @@
 <template>
   <div class="case-detail-page pb-10 lg:pb-20 xl:pb-24 mt-10 lg:mt-20 xl:mt-24">
     <PageBanner
-        image="/assets/cases/dit-bier/Header1.jpg"
+        image="/assets/cases/dit-bier/header1.jpg"
         title="Dit Bier"
         subtitle="Hoe kunnen we door middel van online contentcreatie meer bekendheid genereren? Na de rebranding van Dit Bier lag de focus op het inhalen van achterstallige content en het ontwikkelen van een vernieuwde digitale strategie."
         :labels="['Aftermovie', 'Sport']"
@@ -10,7 +10,7 @@
     <TextMedia
         title="Context"
         content="Dit Bier werkt samen met huurbrouwers om wekelijks wisselende speciaalbieren aan te bieden in supermarkten. Elk bier heeft een eigen verhaal en vertegenwoordigt het ambacht van kleinschalige brouwers die anders geen podium zouden krijgen."
-        image="/assets/cases/dit-bier/Beer-brewing.jpg"
+        image="/assets/cases/dit-bier/beer-brewing.jpg"
         position="left"
         backgroundColor="#F2F2F2"
         class="mb-16 lg:mb-24"
@@ -35,14 +35,14 @@
           1. Krijgt elk bier zijn eigen verhaal, 2. Worden huurbrouwers uitgelicht, 3. Staat Hopke, een kameleon, centraal als herkenbaar merkpersonage, passend bij de diversiteit van Dit Bier
 
         Daarnaast introduceerde ik een spaarsysteem waarmee gebruikers bieren kunnen verzamelen en beloningen kunnen vrijspelen, wat herhaalaankopen stimuleert."
-        image="/assets/cases/dit-bier/Header1.jpg"
+        image="/assets/cases/dit-bier/header1.jpg"
         position="right"
     />
 
     <TextMedia
         title="Innovatie: NFC in de bierdop"
         content="Tijdens het testen zijn zowel QR-codes als NFC-chips onderzocht. De NFC-chip zorgde voor een duidelijke ‘wow-factor’ en een frictieloze gebruikerservaring. De positieve reacties bevestigden de keuze voor NFC als onderscheidend element."
-        image="/assets/cases/dit-bier/Scan2.jpg"
+        image="/assets/cases/dit-bier/scan2.jpg"
         position="left"
         backgroundColor="#F3F4F6"
     />

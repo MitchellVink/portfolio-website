@@ -9,7 +9,7 @@
     <TextMedia
         title="De uitdaging"
         content="Van der Valk Hotel Veenendaal is een modern en strategisch gelegen hotel, geschikt voor uiteenlopende zakelijke en recreatieve activiteiten. Hoewel het hotel nog relatief nieuw is, waren de eerste renovaties al in volle gang. De uitdaging lag in het krachtig en professioneel vastleggen van de vernieuwde vergader- en meetingruimtes: ruim, strak ingericht en multifunctioneel."
-        image="/assets/cases/hotel-vandervalk/Vandervalk-overview2.jpg"
+        image="/assets/cases/hotel-vandervalk/vandervalk-overview2.jpg"
         position="left"
         backgroundColor="#F3F4F6"
         class="mb-16 lg:mb-24"
@@ -17,7 +17,7 @@
     <TextMedia
         title="Onze aanpak"
         content="Wij hebben deze vergader- en meetingruimtes tot in detail in beeld gebracht met een hoogwaardige video, waarin ruimte, structuur en sfeer centraal staan. Daarnaast zijn er buitenopnames gemaakt om de bijzondere architectuur en vorm van het hotel visueel te versterken."
-        image="/assets/cases/hotel-vandervalk/Vandervalk-binnen.JPG"
+        image="/assets/cases/hotel-vandervalk/vandervalk-binnen.JPG"
         position="right"
     />
 

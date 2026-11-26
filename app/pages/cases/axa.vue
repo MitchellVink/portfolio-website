@@ -25,11 +25,13 @@
     />
 
     <TextMedia
-        title="Veldrit Rhenen"
+        title="Veldrit Rhenen 2026"
         content="Modder, actie en adrenaline! Tijdens de veldrit in Rhenen, georganiseerd door de AXA Valleirenners, heb ik een aftermovie gemaakt die de unieke sfeer van het evenement weergeeft. Met deze video hebben toekomstige edities nu een krachtig middel in handen om nog meer deelnemers en sponsoren aan te trekken."
-        videoUrl="JGe5AG61KZc"
+        videoUrl="LgJiTkIpcCw"
         image="/assets/cases/axa-valleirenners/Thumbnail-veldrit.png"
         position="right"
+        backgroundColor="#000"
+        textColor="#fff"
     />
 
     <TextMedia
@@ -42,11 +44,21 @@
         class="mb-16 lg:mb-24"
         textColor="#fff"
     />
+
+    <TextMedia
+        title="Veldrit Rhenen 2023"
+        content="Modder, actie en adrenaline! Tijdens de veldrit in Rhenen, georganiseerd door de AXA Valleirenners, heb ik een aftermovie gemaakt die de unieke sfeer van het evenement weergeeft. Met deze video hebben toekomstige edities nu een krachtig middel in handen om nog meer deelnemers en sponsoren aan te trekken."
+        videoUrl="JGe5AG61KZc"
+        image="/assets/cases/axa-valleirenners/Thumbnail-veldrit.png"
+        position="right"
+
+    />
+
     <TextMedia
         title="Aftermovie toertocht"
         content="Veenendaal-Veenendaal is een van de mooiste toertochten op de kalender. Met adembenemende routes door de Utrechtse Heuvelrug, de Ginkelse Heide en de Posbank is het een evenement dat elke wielerliefhebber trekt. Dankzij mijn video wordt de unieke sfeer van dit drukbezochte evenement nu nóg beter vastgelegd en gedeeld."
         videoUrl="yPyCksaN778"
-        position="right"
+        position="left"
     />
 
     <TextBlock

@@ -25,6 +25,7 @@ const logos = [
   { src: '/assets/logos/Dierenpark%20Amersfoort.png', alt: 'Dierenpark Amersfoort' },
   { src: '/assets/logos/Van%20der%20valk.png', alt: 'Van der Valk' },
   { src: '/assets/logos/Triathlon.png', alt: 'Triathlon' },
+  { src: '/assets/logos/HatchTech-BW.png', alt: 'HatchTech' },
 ]
 
 // duplicate for seamless loop

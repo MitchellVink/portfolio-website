@@ -70,19 +70,19 @@ const cards = [
   {
     title: "PRODUCT DESIGN",
     poster: "/assets/services/product-design.webp",
-    video: "/assets/videos/ProductDesign.mp4",
+    video: "/assets/videos/productdesign.mp4",
     url: '/services/design',
   },
   {
     title: "CONTENT CREATIE",
-    video: "/assets/videos/ContentCreatie.mp4",
+    video: "/assets/videos/contentcreatie.mp4",
     poster: "/assets/content-creatie.png",
     url: '/services/content',
   },
   {
     title: "UI/UX DESIGN",
     poster: "/assets/services/ux-ui-design.webp",
-    video: "/assets/videos/DroppingBallsUxUi.mp4",
+    video: "/assets/videos/droppingballsuxui.mp4",
     url: '/services/uxuidesign',
   },
 ]

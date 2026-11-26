@@ -10,7 +10,7 @@
     <TextMedia
         title="Waarom een werkenbij site?"
         content="De keuze voor een aparte werkenbij-site maakte het mogelijk om de tone of voice volledig te richten op nieuwe medewerkers. Hierdoor kon Steets gerichte employer branding toepassen en ruimte creëren voor specifieke contentmiddelen, zoals medewerkersverhalen en teamcontent. Daarnaast worden vacatures beter vindbaar en aantrekkelijker gepresenteerd, wat bijdraagt aan een sterkere user experience. Met een eigen werkenbij-site heeft Steets meer controle over het werkgeversverhaal en sluit de communicatie beter aan bij de doelgroep."
-        image="/assets/cases/steets-werkenbij/SteetsHome.png"
+        image="/assets/cases/steets-werkenbij/steetshome.png"
         position="left"
         backgroundColor="#F3F4F6"
         class="mb-16 lg:mb-24"
@@ -32,28 +32,28 @@
     <TextMedia
         title="User flows"
         content="Om tot een zo goed mogelijk ontwerp te komen is het Jesse James model gebruikt als basis voor de structuur en ontwerpkeuzes van de werkenbij-site. Vanuit deze aanpak zijn duidelijke user flows uitgewerkt, afgestemd op verschillende typen kandidaten en hun positie binnen het sollicitatieproces. Bij het uitwerken van deze flows lag de focus op het minimaliseren van het aantal stappen en het inzetten van heldere call-to-actions op iedere pagina."
-        image="/assets/cases/steets-werkenbij/SteetsMockup_Userflows.png"
+        image="/assets/cases/steets-werkenbij/steetsmockup_userflows.png"
         position="right"
     />
 
     <TextMedia
         title="Functioneel ontwerp"
         content="Op basis van het onderzoek en de user flows is een functioneel ontwerp opgesteld. Hierin zijn de paginastructuur, functionaliteiten en interacties uitgewerkt. Het functioneel ontwerp vormde de basis voor zowel het grafisch ontwerp als de uiteindelijke realisatie en zorgde ervoor dat de site logisch, overzichtelijk en gebruiksvriendelijk werd opgebouwd."
-        image="/assets/cases/steets-werkenbij/Steets-Brainstorm2.jpg"
+        image="/assets/cases/steets-werkenbij/steets-brainstorm2.jpg"
         position="left"
         backgroundColor="#F3F4F6"
     />
     <TextMedia
         title="Grafisch ontwerp"
         content="In het grafisch ontwerp is de bestaande branding van Steets doorvertaald naar een werkgeversgerichte uitstraling. Hierbij is extra aandacht besteed aan beeldgebruik, typografie en kleur, passend bij de cultuur en identiteit van Steets. Het ontwerp is gericht op het creëren van vertrouwen, herkenning en enthousiasme bij potentiële medewerkers."
-        image="/assets/cases/steets-werkenbij/Steets-comp.jpg"
+        image="/assets/cases/steets-werkenbij/steets-comp.jpg"
         position="left"
         backgroundColor="#F3F4F6"
         class="mb-16 lg:mb-24"
     />
     <MediaDisplay
         type="image"
-        src="/assets/cases/steets-werkenbij/SteetsC&P-GO-2.png"
+        src="/assets/cases/steets-werkenbij/steetsc-p-go-2.png"
         alt="Camera photo"
         wrapper-class="px-6 lg:px-8 pb-10 lg:pb-16 xl:pb-16"
     />

@@ -1,7 +1,7 @@
 <template>
   <div class="case-detail-page pb-10 lg:pb-20 xl:pb-24 mt-10 lg:mt-20 xl:mt-24">
     <PageBanner
-        video="/assets/cases/kunstroute-veenendaal/Kunstroute-thumbnail-case.mp4"
+        video="/assets/cases/kunstroute-veenendaal/kunstroute-thumbnail-case.mp4"
         title="Trace"
         subtitle="Leave a trace, keep the memory."
         />
@@ -17,14 +17,14 @@
         title="Van idee tot totaalervaring  "
         content="Toen de organisatie van de Kunstroute Veenendaal mij benaderde voor het maken van een aftermovie, werd al snel duidelijk dat de vraag verder ging dan alleen video. Er was behoefte aan een originele opening van de kunstroute én aan een manier om een jonger publiek actief bij het evenement te betrekken.
         Naast het vastleggen van de sfeer heb ik daarom meegedacht over de volledige beleving rondom de opening van de kunstroute."
-        image="/assets/cases/kunstroute-veenendaal/Kunstroutelijst.jpg"
+        image="/assets/cases/kunstroute-veenendaal/kunstroutelijst.jpg"
         position="left"
     />
 
     <TextMedia
         title="De opening van de kunstroute"
         content="Voor de officiële opening ontwierp ik een uniek kunstzinnig object: een speciaal ontworpen lijst met een 3D-geprinte plattegrond van Veenendaal. Met rode markeringen werden de locaties van 15 verschillende kunstateliers zichtbaar gemaakt, zodat bezoekers in één oogopslag konden zien waar de kunstroute zich afspeelde."
-        image="/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg"
+        image="/assets/cases/kunstroute-veenendaal/kunstrouteopening.jpg"
         position="right"
         backgroundColor="#000"
         textColor="#fff"
@@ -33,7 +33,7 @@
     <TextMedia
         title="Interactie & technologie"
         content="Om de ervaring interactief te maken, integreerde ik een NFC-chip in het ontwerp. Door deze te scannen met een smartphone kregen bezoekers tijdens het evenement direct toegang tot een digitale kaart met alle deelnemende locaties. Na afloop van de kunstroute kreeg deze interactie een nieuwe functie: de NFC-chip leidt nu naar de aftermovie, waarmee de kunstroute blijvend onder de aandacht wordt gebracht."
-        image="/assets/cases/kunstroute-veenendaal/Nfc-uitleg.jpg"
+        image="/assets/cases/kunstroute-veenendaal/nfc-uitleg.jpg"
         position="left"
         backgroundColor="#000"
         textColor="#fff"
@@ -42,7 +42,7 @@
     <TextMedia
         title="Aftermovie"
         content="De aftermovie brengt de sfeer, kunst en opening tijdens de Kunstroute Veenendaal 2023 samen. Van exposities tot bezoekers en van detail tot totaalbeeld, de video fungeert als herinnering én als promotiemiddel voor toekomstige edities."
-        image="/assets/cases/kunstroute-veenendaal/Kunstroute-opening.jpg"
+        image="/assets/cases/kunstroute-veenendaal/kunstrouteopening.jpg"
         videoUrl="njd1rtm2ic4"
         position="right"
     />

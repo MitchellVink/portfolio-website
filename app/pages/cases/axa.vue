@@ -36,7 +36,7 @@
     <TextMedia
         title="Veenendaal-Veenendaal"
         content="Vaan start tot finish: Veenendaal-Veenendaal was een spektakel! Bekijk de hoogtepunten van dit wielerevenement en herbeleef de energie van het peloton."
-        image="/assets/cases/axa-valleirenners/Thumbnail-VV.jpg"
+        image="/assets/cases/axa-valleirenners/thumbnail-vv.jpg"
         videoUrl="Fz3vek2dhoo"
         position="left"
         backgroundColor="#000"
@@ -48,7 +48,7 @@
         title="Veldrit Rhenen 2023"
         content="Modder, actie en adrenaline! Tijdens de veldrit in Rhenen, georganiseerd door de AXA Valleirenners, heb ik een aftermovie gemaakt die de unieke sfeer van het evenement weergeeft. Met deze video hebben toekomstige edities nu een krachtig middel in handen om nog meer deelnemers en sponsoren aan te trekken."
         videoUrl="JGe5AG61KZc"
-        image="/assets/cases/axa-valleirenners/Thumbnail-veldrit.png"
+        image="/assets/cases/axa-valleirenners/thumbnail-veldrit.png"
         position="right"
 
     />
@@ -72,7 +72,7 @@
       
     <MediaDisplay
         type="image"
-        src="/assets/cases/axa-valleirenners/End-Shot.png"
+        src="/assets/cases/axa-valleirenners/end-shot.png"
         alt="Camera photo"
         wrapper-class="px-6 lg:px-8 pb-10 lg:pb-20 xl:pb-24"
     />

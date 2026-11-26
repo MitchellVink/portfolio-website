@@ -9,7 +9,7 @@
         <video
             ref="videoEl"
             class="absolute inset-0 h-full w-full object-cover brightness-[0.7]"
-            src="/assets/videos/HeaderVid_KnivV4.mp4"
+            src="/assets/videos/headervid_knivv4.mp4"
             autoplay
             muted
             loop

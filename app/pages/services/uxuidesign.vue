@@ -1,7 +1,7 @@
 <template>
   <div class="services-detail-page pb-10 lg:pb-20 xl:pb-24">
     <PageBanner
-      video="/assets/videos/DroppingBallsUxUi.mp4"
+      video="/assets/videos/droppingballsuxui.mp4"
       title="UX-UI Design"
       subtitle="Gebruiksvriendelijke ontwerpen die niet alleen visueel aantrekkelijk zijn, maar ook functioneren. Met de eindgebruiker altijd in gedachten."
     />

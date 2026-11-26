@@ -1,7 +1,7 @@
 <template>
   <div class="case-detail-page pb-10 lg:pb-20 xl:pb-24 mt-10 lg:mt-20 xl:mt-24">
     <PageBanner
-        image="/assets/cases/hatchtech/DSC03405-Hoek-Logo-2.jpg"
+        image="/assets/cases/hatchtech/dsc03405-hoek-logo-2.jpg"
         title="Hatchtech nieuwe trolley met hoge capaciteit"
         subtitle="Voor HatchTech mocht ik aan de slag met een nieuwe fotoserie. Hierbij stond het vastleggen van hun nieuwste trolley centraal, aangevuld met fotografie van medewerkers en diverse spareparts."
         :labels="['Fotografie']"
@@ -49,40 +49,40 @@ const media = [
 
 const photos = [
   {
-    src: "/assets/cases/hatchtech/DSC03396-TrollySchuinLinkerzijaanzicht.jpg",
+    src: "/assets/cases/hatchtech/dsc03396-trollyschuinlinkerzijaanzicht.jpg",
     alt: "Nieuwe trolley van HatchTech",
     colSpan: 2
   },
   {
-    src: "/assets/cases/hatchtech/DSC03636.jpg",
+    src: "/assets/cases/hatchtech/dsc03636.jpg",
     alt: "Medewerker HatchTech"
   },
   {
-    src: "/assets/cases/hatchtech/DSC03522.jpg",
+    src: "/assets/cases/hatchtech/dsc03522.jpg",
     alt: "Spareparts HatchTech"
   },
   {
-    src: "/assets/cases/hatchtech/DSC03487.jpg",
+    src: "/assets/cases/hatchtech/dsc03487.jpg",
     alt: "Detail van de trolley",
     colSpan: 2
   },
   {
-    src: "/assets/cases/hatchtech/DSC03607.jpg",
+    src: "/assets/cases/hatchtech/dsc03607.jpg",
     alt: "Medewerker HatchTech",
     colSpan: 2
   },
   {
-    src: "/assets/cases/hatchtech/DSC03496.jpg",
+    src: "/assets/cases/hatchtech/dsc03496.jpg",
     alt: "Medewerker HatchTech",
     colSpan: 1
   },
   {
-    src: "/assets/cases/hatchtech/DSC03657.jpg",
+    src: "/assets/cases/hatchtech/dsc03657.jpg",
     alt: "Medewerker HatchTech",
     colSpan: 1
   },
   {
-    src: "/assets/cases/hatchtech/DSC03447-TrollySchuinRechterzijaanzicht.jpg",
+    src: "/assets/cases/hatchtech/dsc03447-trollyschuinrechterzijaanzicht.jpg",
     alt: "Medewerker HatchTech",
     colSpan: 2
   }

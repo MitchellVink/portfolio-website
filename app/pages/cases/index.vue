@@ -71,16 +71,16 @@ import { ref, computed } from "vue";
 import LogoCloud from "~/components/ui/LogoCloud.vue";
 
 const cases = [
-  { title: "HatchTech nieuwe trolley", type: ["Content Creatie"], image: "/assets/cases/hatchtech/DSC03405-Hoek overzicht.jpg", size: 2, slug: "hatchtech" },
+  { title: "HatchTech nieuwe trolley", type: ["Content Creatie"], image: "/assets/cases/hatchtech/dsc03405-hoek-overzicht.jpg", size: 2, slug: "hatchtech" },
   { title: "AXA VALLEIRENNERS - EVENEMENTEN IN BEELD", type: ["Content Creatie"], image: "/assets/cases/axa-valleirenners/axa-vlag.webp", size: 1, slug: "axa" },
   { title: "STEETS", type: ["Content creatie"], image: "/assets/image3.webp", size: 1, slug: "steets" },  
- // { title: "deOlijfolieshop", type: ["Content Creatie"], image: "/assets/cases/deolijfolieshop/DSC03015.jpg", size: 2, slug: "deolijfolieshop" },
+ // { title: "deOlijfolieshop", type: ["Content Creatie"], image: "/assets/cases/deolijfolieshop/dsc03015.jpg", size: 2, slug: "deolijfolieshop" },
   { title: "VAN SLAAPKAMER TOT MAINSTAGE", type: ["Content Creatie"], image: "/assets/cases/rich/rich1.webp", size: 2, slug: "rich" },
-  { title: "LIEFDE IN BEELD: EEN ONVERGETELIJKE DAG VASTGELEGD", type: ["Content Creatie"], image: "/assets/cases/BruiloftNE/Oranjerie_Drone.webp", size: 2, slug: "Bruiloft-NE" },
+  { title: "LIEFDE IN BEELD: EEN ONVERGETELIJKE DAG VASTGELEGD", type: ["Content Creatie"], image: "/assets/cases/bruiloftne/oranjerie_drone.webp", size: 2, slug: "Bruiloft-NE" },
   { title: "VAN DER VALK", type: ["Content Creatie"], image: "/assets/cases/hotel-vandervalk/vandervalk-overview3.webp", size: 1, slug: "van-der-valk" },
-{ title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/SteetsHome.png", size: 1, slug: "steets-werkenbij" },
-{ title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/Kunstrouteopening.jpg", size: 2, slug: "kunstroute-veenendaal" },
-{ title: "DIT BIER - EEN INNOVATIEVE BIERBELEVING", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/DitBierThumbnail2.png", size: 1, slug: "dit-bier" },
+{ title: "STEETS WERKENBIJ", type: ["UI/UX Design"], image: "/assets/cases/steets-werkenbij/steetshome.png", size: 1, slug: "steets-werkenbij" },
+{ title: "KUNSTROUTE VEENENDAAL - EEN UNIEKE OPENING", type: ["Product Design", "Content Creatie"], image: "/assets/cases/kunstroute-veenendaal/kunstrouteopening.jpg", size: 2, slug: "kunstroute-veenendaal" },
+{ title: "DIT BIER - EEN INNOVATIEVE BIERBELEVING", type: ["Product Design", "UI/UX Design"], image: "/assets/cases/dit-bier/ditbierthumbnail2.png", size: 1, slug: "dit-bier" },
 ];
 
 const caseTypes = ["Product Design", "Content Creatie", "UI/UX Design"];

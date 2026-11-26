@@ -50,7 +50,7 @@
         title="Hopke"
         content="Dit bier had nog een herkenbaar gezicht nodig. Tijdens een brainstormsessie zochten we naar iets dat écht bij het karakter van het merk paste. Zo kwamen we uit bij de kameleon: een dier dat symbool staat voor verandering en veelzijdigheid. Precies zoals elk speciaalbier uniek is en steeds weer anders verrast.
 We gaven de kameleon de naam Hopke, een speelse knipoog naar hop, een onmisbaar ingrediënt in bier."
-        image="/assets/cases/dit-bier/DitBier-Hopke.png"
+        image="/assets/cases/dit-bier/ditbier-hopke.png"
         position="left"
         backgroundColor="#F3F4F6"
         class="mb-16 lg:mb-24"
@@ -64,7 +64,7 @@ We gaven de kameleon de naam Hopke, een speelse knipoog naar hop, een onmisbaar 
     />
     <MediaDisplay
         type="image"
-        src="/assets/cases/dit-bier//Mockup-app.png"
+        src="/assets/cases/dit-bier/mockup-app.png"
         alt="Camera photo"
         wrapper-class="px-6 lg:px-8 pb-10 lg:pb-16 xl:pb-16"
     />

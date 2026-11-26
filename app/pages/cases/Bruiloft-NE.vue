@@ -1,7 +1,7 @@
 <template>
   <div class="case-detail-page pb-10 lg:pb-20 xl:pb-24 mt-10 lg:mt-20 xl:mt-24">
     <PageBanner
-        image="/assets/cases/BruiloftNE/Oranjerie_Drone.JPG"
+        image="/assets/cases/bruiloftne/oranjerie_drone.jpg"
         title="Bruiloft Nathan & Eva"
         subtitle="Een prachtige dag op beeld, met een unieke presentatie"
         :labels="['2025', 'Bruiloft']"
@@ -42,7 +42,7 @@
     <TextMedia
         title="Presentatie"
         content="Omdat een bruiloft zo speciaal is wilde ik de dag op een bijzondere manier laten herrineren. De locatie waarin het ja woord werd gezegd heb ik een 3d scan van gemaakt en 3d geprint. Deze print heb ik op een poster vast gemaakt en een nfc chip toegevoegd die na het scannen door linkt naar de trouwvideo. "
-        image="/assets/cases/BruiloftNE/Bruiloft_Print.jpg"
+        image="/assets/cases/bruiloftne/bruiloft_print.jpg"
         position="right"
     />
     <TextBlock

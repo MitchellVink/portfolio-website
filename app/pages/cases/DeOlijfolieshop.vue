@@ -1,7 +1,7 @@
 <template>
   <div class="case-detail-page pb-10 lg:pb-20 xl:pb-24 mt-10 lg:mt-20 xl:mt-24">
     <PageBanner
-        image="/assets/cases/deolijfolieshop/DSC03031.jpg"
+        image="/assets/cases/deolijfolieshop/dsc03031.jpg"
         title="Promo met sterrenchef"
         subtitle="Een nieuwe contentserie waarin de producten en expertise van Olijfolieshop samenkomen met de culinaire kennis van De Treeswijkhoeve."
         :labels="['Fotografie']"
@@ -52,12 +52,12 @@ const media = [
 
 const photos = [
   {
-    src: "/assets/cases/deolijfolieshop/DSC03086.jpg",
+    src: "/assets/cases/deolijfolieshop/dsc03086.jpg",
     alt: "Olijfolie",
     colSpan: 2
   },
   {
-    src: "/assets/cases/deolijfolieshop/DSC03075.jpg",
+    src: "/assets/cases/deolijfolieshop/dsc03075.jpg",
     alt: "Olijfolie"
   }
 ];
@@ -65,19 +65,19 @@ const photos = [
 const videos = [
   {
     videoUrl: "8IwA6xui8jk",
-    image: "/assets/cases/deolijfolieshop/DSC03075.jpg",
+    image: "/assets/cases/deolijfolieshop/dsc03075.jpg",
     title: "Aankondeging",
     alt: "Verticale video"
   },
   {
     videoUrl: "Fpe3---s_X8",
-    image: "/assets/cases/deolijfolieshop/DSC03038.jpg",
+    image: "/assets/cases/deolijfolieshop/dsc03038.jpg",
     title: "Voorstellen",
     alt: "Verticale video"
   },
   {
     videoUrl: "cs6jEfoJGt4",    
-    image: "/assets/cases/deolijfolieshop/DSC03028.jpg",
+    image: "/assets/cases/deolijfolieshop/dsc03028.jpg",
     title: "Uitleg",
     alt: "Verticale video"
   }

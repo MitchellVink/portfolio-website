@@ -20,12 +20,12 @@
 
 <script setup lang="ts">
 const logos = [
-  { src: '/assets/logos/Axa%20Valleirenners.png', alt: 'Axa Valleirenners' },
+  { src: '/assets/logos/axa-valleirenners.png', alt: 'Axa Valleirenners' },
   { src: '/assets/logos/bouwbedrijf-bouw.png', alt: 'Bouwbedrijf' },
-  { src: '/assets/logos/Dierenpark%20Amersfoort.png', alt: 'Dierenpark Amersfoort' },
-  { src: '/assets/logos/Van%20der%20valk.png', alt: 'Van der Valk' },
-  { src: '/assets/logos/Triathlon.png', alt: 'Triathlon' },
-  { src: '/assets/logos/HatchTech-BW.png', alt: 'HatchTech' },
+  { src: '/assets/logos/dierenpark-amersfoort.png', alt: 'Dierenpark Amersfoort' },
+  { src: '/assets/logos/van-der-valk.png', alt: 'Van der Valk' },
+  { src: '/assets/logos/triathlon.png', alt: 'Triathlon' },
+  { src: '/assets/logos/hatchtech-bw.png', alt: 'HatchTech' },
 ]
 
 // duplicate for seamless loop

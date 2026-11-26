@@ -17,7 +17,7 @@
     <TextMedia
         title="Onze aanpak"
         content="Wij hebben deze vergader- en meetingruimtes tot in detail in beeld gebracht met een hoogwaardige video, waarin ruimte, structuur en sfeer centraal staan. Daarnaast zijn er buitenopnames gemaakt om de bijzondere architectuur en vorm van het hotel visueel te versterken."
-        image="/assets/cases/hotel-vandervalk/vandervalk-binnen.JPG"
+        image="/assets/cases/hotel-vandervalk/vandervalk-binnen.jpg"
         position="right"
     />
 

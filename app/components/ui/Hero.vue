@@ -9,7 +9,7 @@
         <video
             ref="videoEl"
             class="absolute inset-0 h-full w-full object-cover"
-            src="/assets/videos/Showreel-KnivV2.mp4"
+            src="/assets/videos/showreel.mp4"
             autoplay
             muted
             loop
